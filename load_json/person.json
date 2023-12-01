@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Nishan Shrestha",
+        "age": "22",
+        "height": "158",
+        "gender": "male",
+        "haircolor": "black"
+    },
+    {
+        "name": "Bimal",
+        "age": "20",
+        "height": "178",
+        "gender": "male",
+        "haircolor": "black"
+    },
+    {
+        "name": "Rikesh",
+        "age": "23",
+        "height": "172",
+        "gender": "male",
+        "haircolor": "black"
+    },
+    {
+        "name": "Prazwal",
+        "age": "23",
+        "height": "168",
+        "gender": "male",
+        "haircolor": "black"
+    },
+    {
+        "name": "Sita",
+        "age": "22",
+        "height": "158",
+        "gender": "female",
+        "haircolor": "brown"
+    }
+]
